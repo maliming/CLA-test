@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "maliming",
+      "id": 6908465,
+      "comment_id": 1060133699,
+      "created_at": "2022-03-07T02:48:00Z",
+      "repoId": 466917142,
+      "pullRequestNo": 1
+    }
+  ]
 }
