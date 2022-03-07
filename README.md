@@ -1,3 +1,3 @@
 # CLA-test
 
-This is test PR.
+This is test repo.
